@@ -1,0 +1,77 @@
+export default {
+  晋中: {
+    key: "jz",
+    name: "晋中",
+    filePath: "jz",
+    imageUrl: "/static/map/jzs.png",
+    registered: false,
+  },
+  榆次区: {
+    key: "ycq",
+    name: "榆次区",
+    filePath: "ycq",
+    imageUrl: "/static/map/ycq.png",
+    registered: false,
+  },
+  太谷区: {
+    key: "tgq",
+    name: "太谷区",
+    imageUrl: "/static/map/tgq.png",
+    filePath: "tgq",
+    registered: false,
+  },
+  祁县: {
+    key: "qx",
+    name: "祁县",
+    filePath: "qx",
+    registered: false,
+  },
+  平遥县: {
+    key: "pyx",
+    name: "平遥县",
+    filePath: "pyx",
+    registered: false,
+  },
+  介休市: {
+    key: "jxs",
+    name: "介休市",
+    filePath: "jxs",
+    registered: false,
+  },
+  灵石县: {
+    key: "lsx",
+    name: "灵石县",
+    filePath: "lsx",
+    registered: false,
+  },
+  榆社县: {
+    key: "ysx",
+    name: "榆社县",
+    filePath: "ysx",
+    registered: false,
+  },
+  左权县: {
+    key: "zqx",
+    name: "左权县",
+    filePath: "zqx",
+    registered: false,
+  },
+  和顺县: {
+    key: "hsx",
+    name: "和顺县",
+    filePath: "hsx",
+    registered: false,
+  },
+  昔阳县: {
+    key: "xyx",
+    name: "昔阳县",
+    filePath: "xyx",
+    registered: false,
+  },
+  寿阳县: {
+    key: "syx",
+    name: "寿阳县",
+    filePath: "syx",
+    registered: false,
+  },
+};

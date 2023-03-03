@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="94px" viewBox="0 0 106 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="favicon" transform="translate(0.000000, 0.000000)">
+            <path d="M105.821332,43.8186894 C104.960048,20.3468934 74.6131947,0 45.6182454,0 C16.623296,0 2.11516701,33.7934524 0.557153772,48.6714614 C-1.00085946,63.5494703 0.771006226,72.0544612 5.09278285,82.4374192 C18.0074077,113.464476 105.821332,71.4329269 105.821332,43.8186894 Z" id="椭圆形" fill="#065CD3" fill-rule="nonzero"></path>
+            <g id="编组备份" transform="translate(14.820636, 19.395184)">
+                <polygon id="Fill-1" fill="#FFFFFF" fill-rule="nonzero" points="26.9158131 41 35 41 30.0841869 18 22 18"></polygon>
+                <polygon id="Fill-2" fill="#FFFFFF" fill-rule="nonzero" points="54.177102 33 52.7245081 32.9982866 49.7370304 27.3079889 48.4400716 32.9948597 47 32.9931463 48.822898 25 50.273703 25.0017134 53.2754919 30.6920111 54.5724508 25.0051403 56 25.0068537"></polygon>
+                <polygon id="Fill-3" fill="#FFFFFF" fill-rule="nonzero" points="62.7395833 26.2273409 61.0409946 26.2256267 59.5893817 33 58.250336 32.9982858 59.7002688 26.2239126 58 26.2221984 58.2604167 25 63 25.0051425"></polygon>
+                <g id="编组">
+                    <polygon id="Fill-16" fill="#FFFFFF" fill-rule="nonzero" points="13.4172038 40.5911655 5.51350907 40.5911655 10.9603368 4.80462761 18.8622487 4.80462761"></polygon>
+                    <polygon id="Fill-18" fill="#FFFFFF" fill-rule="nonzero" points="48.6037112 21.9098473 56.5056231 21.9098473 53.6636448 4.80498598 45.761733 4.80498598"></polygon>
+                    <polygon id="Fill-20" fill="#FFFFFF" fill-rule="nonzero" points="37.6979301 41 29.7960182 41 35.3214746 14.1741352 43.2233865 14.1741352"></polygon>
+                    <polygon id="Fill-22" fill="#28A3CE" fill-rule="nonzero" points="43.5639246 11.3120365 35.6620128 11.3120365 36.9635461 4.80588189 44.8672409 4.80588189"></polygon>
+                    <polygon id="Fill-24" fill="#1DCC68" fill-rule="nonzero" points="51.323381 40.5911655 59.2270757 40.5911655 58.2179417 34.0850109 50.3160298 34.0850109"></polygon>
+                    <path d="M37.7391173,45.1040823 L26.9025153,45.1040823 M55.8411279,45.1040823 L65,45.1040823 L63.1725046,34.0842942 M61.4448528,21.910564 L57.3566119,0 L38.1474065,0.29206918 L32.3546918,28.7643347 L26.2446169,0.29206918 L7.28323779,0 L0,45.1040823 L9.16065502,45.1040823" id="Stroke-26" stroke="#FFFFFF" stroke-width="0.5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

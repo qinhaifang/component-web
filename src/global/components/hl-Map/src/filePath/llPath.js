@@ -1,0 +1,86 @@
+export default {
+  吕梁: {
+    key: "ll",
+    name: "吕梁",
+    filePath: "ll",
+    registered: false,
+  },
+  兴县: {
+    key: "xx",
+    name: "兴县",
+    filePath: "xx",
+    registered: false,
+  },
+  临县: {
+    key: "linx",
+    name: "临县",
+    filePath: "linx",
+    registered: false,
+  },
+  岚县: {
+    key: "lx",
+    name: "岚县",
+    filePath: "lx",
+    registered: false,
+  },
+  方山县: {
+    key: "fsx",
+    name: "方山县",
+    filePath: "fsx",
+    registered: false,
+  },
+  交城县: {
+    key: "jcx",
+    name: "交城县",
+    filePath: "jcx",
+    registered: false,
+  },
+  柳林县: {
+    key: "llx",
+    name: "柳林县",
+    filePath: "llx",
+    registered: false,
+  },
+  离石区: {
+    key: "lsq",
+    name: "离石区",
+    filePath: "lsq",
+    registered: false,
+  },
+  文水县: {
+    key: "wsx",
+    name: "文水县",
+    filePath: "wsx",
+    registered: false,
+  },
+  中阳县: {
+    key: "zyx",
+    name: "中阳县",
+    filePath: "zyx",
+    registered: false,
+  },
+  汾阳市: {
+    key: "fys",
+    name: "汾阳市",
+    filePath: "fys",
+    registered: false,
+  },
+  石楼县: {
+    key: "slx",
+    name: "石楼县",
+    filePath: "slx",
+    registered: false,
+  },
+  交口县: {
+    key: "jkx",
+    name: "交口县",
+    filePath: "jkx",
+    registered: false,
+  },
+  孝义市: {
+    key: "xys",
+    name: "孝义市",
+    filePath: "xys",
+    registered: false,
+  },
+};

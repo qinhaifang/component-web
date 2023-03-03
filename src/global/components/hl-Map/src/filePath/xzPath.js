@@ -1,0 +1,92 @@
+export default {
+  忻州: {
+    key: "xz",
+    name: "忻州",
+    filePath: "xz",
+    registered: false,
+  },
+  偏关县: {
+    key: "pgx",
+    name: "偏关县",
+    filePath: "pgx",
+    registered: false,
+  },
+  河曲县: {
+    key: "hqx",
+    name: "河曲县",
+    filePath: "hqx",
+    registered: false,
+  },
+  保德县: {
+    key: "bdx",
+    name: "保德县",
+    filePath: "bdx",
+    registered: false,
+  },
+  神池县: {
+    key: "scx",
+    name: "神池县",
+    filePath: "scx",
+    registered: false,
+  },
+  五寨县: {
+    key: "wzx",
+    name: "五寨县",
+    filePath: "wzx",
+    registered: false,
+  },
+  岢岚县: {
+    key: "klx",
+    name: "岢岚县",
+    filePath: "klx",
+    registered: false,
+  },
+  宁武县: {
+    key: "nwx",
+    name: "宁武县",
+    filePath: "nwx",
+    registered: false,
+  },
+  静乐县: {
+    key: "jlx",
+    name: "静乐县",
+    filePath: "jlx",
+    registered: false,
+  },
+  原平市: {
+    key: "yps",
+    name: "原平市",
+    filePath: "yps",
+    registered: false,
+  },
+  忻府区: {
+    key: "xfq",
+    name: "忻府区",
+    filePath: "xfq",
+    registered: false,
+  },
+  代县: {
+    key: "dx",
+    name: "代县",
+    filePath: "dx",
+    registered: false,
+  },
+  五台县: {
+    key: "wtx",
+    name: "五台县",
+    filePath: "wtx",
+    registered: false,
+  },
+  繁峙县: {
+    key: "fsx",
+    name: "繁峙县",
+    filePath: "fsx",
+    registered: false,
+  },
+  定襄县: {
+    key: "dxx",
+    name: "定襄县",
+    filePath: "dxx",
+    registered: false,
+  },
+};

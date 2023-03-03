@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="32px" viewBox="0 0 30 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>exchanger3-unknow</title>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-299.000000, -826.000000)">
+            <g id="exchanger3-unknow" transform="translate(299.000000, 826.760829)">
+                <circle id="椭圆形备份-8" fill="#6E7B84" cx="15" cy="15.2391713" r="15"></circle>
+                <polygon id="路径备份-13" fill="#FFFFFF" fill-rule="nonzero" transform="translate(14.702153, 10.311364) rotate(-45.000000) translate(-14.702153, -10.311364) " points="22.0084269 14.898335 12.7741002 5.69308953 14.2204442 4.26244016 7.3958782 3.03516744 8.63627798 9.78399862 10.0849892 8.35334925 19.3192009 17.5875609"></polygon>
+                <polygon id="路径备份-14" fill="#FFFFFF" fill-rule="nonzero" transform="translate(14.702153, 20.311364) scale(-1, 1) rotate(-45.000000) translate(-14.702153, -20.311364) " points="22.0084269 24.898335 12.7741002 15.6930895 14.2204442 14.2624402 7.3958782 13.0351674 8.63627798 19.7839986 10.0849892 18.3533493 19.3192009 27.5875609"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

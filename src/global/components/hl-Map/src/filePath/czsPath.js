@@ -1,0 +1,86 @@
+export default {
+  长治: {
+    key: "cz",
+    name: "长治",
+    filePath: "cz",
+    registered: false,
+  },
+  长治市: {
+    key: "czs",
+    name: "长治市",
+    filePath: "czs",
+    registered: false,
+  },
+  潞州区: {
+    key: "lzq",
+    name: "潞州区",
+    filePath: "lzq",
+    registered: false,
+  },
+  上党区: {
+    key: "sdq",
+    name: "上党区",
+    filePath: "sdq",
+    registered: false,
+  },
+  屯留区: {
+    key: "tlq",
+    name: "屯留区",
+    filePath: "tlq",
+    registered: false,
+  },
+  潞城区: {
+    key: "lcq",
+    name: "潞城区",
+    filePath: "lcq",
+    registered: false,
+  },
+  襄垣县: {
+    key: "xyx",
+    name: "襄垣县",
+    filePath: "xyx",
+    registered: false,
+  },
+  平顺县: {
+    key: "psx",
+    name: "平顺县",
+    filePath: "psx",
+    registered: false,
+  },
+  黎城县: {
+    key: "lcx",
+    name: "黎城县",
+    filePath: "lcx",
+    registered: false,
+  },
+  壶关县: {
+    key: "hgx",
+    name: "壶关县",
+    filePath: "hgx",
+    registered: false,
+  },
+  长子县: {
+    key: "zzx",
+    name: "长子县",
+    filePath: "zzx",
+    registered: false,
+  },
+  武乡县: {
+    key: "wxx",
+    name: "武乡县",
+    filePath: "wxx",
+    registered: false,
+  },
+  沁县: {
+    key: "qx",
+    name: "沁县",
+    filePath: "qx",
+    registered: false,
+  },
+  沁源县: {
+    key: "qyx",
+    name: "沁源县",
+    filePath: "qyx",
+    registered: false,
+  },
+};

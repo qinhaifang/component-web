@@ -1,0 +1,6 @@
+[submodule "hl-components"]
+	path = hl-components
+	url = git@192.168.40.229:dubin/hl-components.git
+[submodule "src/global/hl-components"]
+	path = src/global/hl-components
+	url = git@192.168.40.229:dubin/hl-components.git

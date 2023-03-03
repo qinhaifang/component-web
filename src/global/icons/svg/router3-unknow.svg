@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>router3-unknow</title>
+    <g id="设计规范" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-299.000000, -760.000000)">
+            <g id="router3-unknow" transform="translate(299.000000, 760.000000)">
+                <circle id="椭圆形备份-7" fill="#6E7B84" cx="15" cy="15" r="15"></circle>
+                <polygon id="路径备份-11" fill="#FFFFFF" fill-rule="nonzero" points="15.9302998 18.4784415 18.6170437 21.1363636 17.1683325 22.5693506 23.9976328 23.7942857 22.7548659 17.0454545 21.3061546 18.4784415 18.6194108 15.8181818"></polygon>
+                <polygon id="路径备份-12" fill="#FFFFFF" fill-rule="nonzero" points="14.2732772 11.5238961 11.378222 8.65792209 12.824566 7.22727273 6 6 7.24039978 12.7488312 8.689111 11.3181818 11.3805892 13.9784415"></polygon>
+                <polygon id="路径备份-15" fill="#FFFFFF" fill-rule="nonzero" points="11.5841662 15.8181818 8.68674382 18.6818182 7.44634404 17.2511688 6.20357707 24 13.0328774 22.7727273 11.5841662 21.3420779 14.2732772 18.6818182"></polygon>
+                <polygon id="路径备份-16" fill="#FFFFFF" fill-rule="nonzero" points="18.6194108 14.1818182 21.3085218 11.5215585 22.757233 12.9545455 24 6.20337664 17.379011 7.432987 18.8253551 8.86363636 15.9302998 11.5238961"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

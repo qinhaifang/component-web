@@ -1,0 +1,280 @@
+$border:$--border-color-base;
+
+body {
+  height: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+
+label {
+  font-weight: 700;
+}
+
+html {
+  height: 100%;
+  font-size: 12px;
+  box-sizing: border-box;
+}
+// 颜色
+.urgent{
+  color:$urgent;
+}
+.serious{
+  color:$serious
+}
+.commonly{
+  color:$commonly;
+}
+
+.notEnabled{
+  color:$notEnabled;
+}
+// 正常
+.normalStatus{
+  color:$enabled;
+}
+
+#app {
+  height: 100%;
+}
+/* 浮动 */
+.floatL {
+  float: left;
+}
+.floatR {
+  float: right;
+}
+/* 文字位置 */
+.textAlignCenter {
+  text-align: center;
+}
+.textAlignLeft {
+  text-align: left;
+}
+.textAlignRight {
+  text-align: right;
+}
+/* 高度统一 */
+.h1Height {
+  height: 40px;
+  line-height: 40px;
+}
+.h2Height {
+  height: 36px;
+  line-height: 36px;
+}
+.h3Height {
+  height: 30px;
+  line-height: 30px;
+}
+/* flex相关 */
+.flex1{
+  flex:1;
+}
+.flex10{
+  flex:10;
+}
+.flexDirectionColume{
+  flex-direction: column;
+}
+.isFlex {
+  display: flex;
+}
+.flexJustifyContentCenter {
+  justify-content: center;
+}
+.alignItemsCenter {
+  align-items: center;
+}
+.justifyContentSpaceBetween{
+  justify-content: space-between;
+}
+/* 边框 */
+.border{
+    border:1px solid $border
+}
+.hasBorderRight{
+    border-right:1px solid $border
+}
+.hasBorderLeft{
+    border-left:1px solid $border
+}
+.hasBorderTop{
+    border-top:1px solid $border
+}
+.hasBorderBottom{
+    border-bottom:1px solid $border
+}
+.hasNoBoderBottom{
+    border-bottom:0
+}
+.hasNoBoderTop{
+    border-top:0
+}
+.hasNoBoderLeft{
+    border-left:0
+}
+.hasNoBoderRight{
+    border-right:0
+}
+
+.boxSizing{
+    box-sizing: border-box;
+}
+
+
+.w100{
+  width: 100%;
+}
+.h100{
+  height:100%;
+}
+
+
+
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+a,
+a:focus,
+a:hover {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+
+div:focus {
+  outline: none;
+}
+
+.block {
+  display: block;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.inlineBlock {
+  display: inline-block;
+}
+
+.clearfix {
+  &:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+  }
+}
+.marginTop14{
+  margin-top: 14px!important;
+}
+.marginBottom14{
+  margin-bottom: 14px!important;
+}
+.marginRight14{
+  margin-right: 14px;
+}
+.marginLeft14{
+  margin-left: 14px;
+}
+.marginRight30{
+  margin-right: 30px;
+}
+.marginRight40{
+  margin-right: 40px;
+}
+.marginRight20{
+  margin-right: 20px;
+}
+.marginLeft10{
+  margin-left: 10px;
+}
+.marginBottom20{
+  margin-bottom: 20px;
+}
+.noMarginBottom{
+  margin-bottom: 0!important;
+}
+.marginLeft80{
+  margin-left: 80px;
+}
+.marginTop20{
+  margin-top: 20px;
+}
+.marginBottom10{
+  margin-bottom: 10px;
+}
+.paddingTop20{
+  padding-top: 20px;
+  }
+
+.searchContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: #fff;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  border-radius: 2px;
+}
+.table {
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  border-radius: 2px;
+}
+.aColor{
+  color:$--color-primary;
+}
+.hl-title {
+  display: inline-block;
+  // line-height: 25px;
+  font-size: 16px;
+  color: #65789b;
+  letter-spacing: 0;
+  font-family: fangzhenglanting;
+  margin-bottom: 20px;
+}
+.positionRelative{
+  position: relative;
+}
+.positionAbsolute{
+  position: absolute;
+}
+// 底部按钮
+.confirmBox {
+  margin: 20px 0;
+  text-align: center;
+}
+// 清除浮动
+.overflowHidden{
+  overflow: hidden;
+}
+.el-loading-mask{
+  
+}
+.el-input__inner{
+  border-radius: 2px;
+}
+.baseWrap {
+  background: #ffffff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  border-radius: 2px;
+  padding: 20px;
+}

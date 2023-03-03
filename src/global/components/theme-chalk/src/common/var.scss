@@ -1,0 +1,49 @@
+@import './element-var.scss';
+//状态色
+$urgent:#ed1511;// 紧急/异常
+$serious:#fa6600;// 严重
+$commonly:#ffb70c;// 一般
+$normal:#065CD3;// 正常
+$notEnabled:#8A97A0;// 未启用
+$edit:#008cf9;// 编辑
+$deviceEmpty:#caced2;// 设备为空状态
+$enabled:#2ECE73;// 启用
+
+$numberText:#000;// 数字/强调
+
+$dialog-header-color:#f0f0f0;
+// 侧边栏公共颜色
+$nav-menu-background-color:#1D1F26;
+$nav-menu-text-color:#fff;
+
+// Message
+$info-color:#F4F4F4;
+$erro-color: #FFF1F0;
+$warning-color:#FFFBE6;
+$success-color:#F6FFED;
+
+
+.iconfont {
+  &.icon-primary {
+    color: $normal;
+  }
+  &.icon-dange{
+    color: #ff0000;
+  }
+}
+
+
+:export {
+  primary:$--color-primary;
+  normal:$normal;
+  navMenuBg:$nav-menu-background-color;
+  navMenuTextColor:$nav-menu-text-color;
+  urgent:$urgent;
+  serious:$serious;
+  notEnabled:$notEnabled;
+  enabled:$enabled
+}
+
+
+
+
