@@ -1,7 +1,7 @@
 const { url, ws } = require("./index");
 module.exports = {
   url: "http://" + url,
-  title: "π 平台",
+  title: "我",
   sidebarLogo: true,
   ws: ws,
   responseProps: {
@@ -25,7 +25,7 @@ module.exports = {
     fileName: "originalFileName", // 文件名
     fileSuffix: "fileExt", // 文件后缀
   },
-
+  homePath: "/knowledgeLibrary",
   uploadPath: url + "/bizfile/uploadFile",
   // type为input类型的之后，新增字符长度限制
   inputLength: 100,

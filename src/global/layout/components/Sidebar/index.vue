@@ -21,11 +21,11 @@ export default {
     navMenuConfig() {
       return {
         color: {
-          logoBg: "#017FDD", // logo背景颜色
-          menuHover: "#0003", // 菜单hover颜色
-          menuActive: "#0003", // 菜单选中颜色
-          navMenuBg: "unset", // 菜单背景颜色
-          isOpened: "#1f5ab4", // 菜单展开颜色
+          logoBg: "#02B280", // logo背景颜色
+          menuHover: "#078461", // 菜单hover颜色
+          menuActive: "#05846A", // 菜单选中颜色
+          navMenuBg: "00a476", // 菜单背景颜色
+          isOpened: "#00976D", // 菜单展开颜色
           navMenuTextColor: "#fff", // 菜单text颜色
         },
         routesList: this.permission_routes,

@@ -143,7 +143,7 @@ export default {
   .left-menu {
     float: left;
     font-size: 24px;
-    color: #1f85ec;
+    color: #022578;
     font-weight: 700;
     margin-left: 30px;
     height: 60px;
